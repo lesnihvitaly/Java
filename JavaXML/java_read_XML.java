@@ -8,9 +8,17 @@ import org.w3c.dom.Element;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 
+// English https://javacode.lesnih.info/java-xml-reading.html
+// Russian https://java.lesnih.info/java-xml-chtenie.html
+
 public class java_read_XML {
 
     public static void main(String[] args) {
+
+        //text.xml - Take from repository.
+        // You must place the text.xml file in the folder so
+        // that the file is available at C:\NewFolder1\text.xml,
+        // or change the address to the file.
 
         String path = "C:\\NewFolder1\\text.xml";
         try

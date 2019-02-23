@@ -14,7 +14,8 @@ import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 import org.w3c.dom.Attr;
 
-
+// English https://javacode.lesnih.info/java-xml-write.html
+// Russian https://java.lesnih.info/java-xml-record.html
 
 public class Java_save_XML {
 
