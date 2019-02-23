@@ -37,7 +37,7 @@ public class SendEmail {
             message.setRecipients(Message.RecipientType.TO, InternetAddress.parse(to_email));
             // Subject of the message
             message.setSubject(subject_email);
-            // The text of the letter itself
+            // The text of the letter itself.
             message.setText(text_email);
 
             // we send the message
